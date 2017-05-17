@@ -9,4 +9,6 @@ Para que o Git consiga rastrear os arquivos do repositório.
 3) Em que direfe a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
 A área de trabalho indica os arquivos/mudanças que estão prontos para commit, ao passo que o repositório possui as mudanças já confirmadas. O diretório de trabalho possui os arquivos em modificação que ainda não estão prontos para irem ao repositório. O valor da área de preparação é permitir separar as alterações que já estão prontas daquelas que ainda estão em andamento, até o momento em todas estejam prontas pra serem confirmados no repositório.
 
+4) Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Posso adiconar somente as alterações relacionadas à área de preparação e depois efetuar o commit. As alterações não relacionadas permanecem no diretório de trabalho.
 
