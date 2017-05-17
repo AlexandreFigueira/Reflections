@@ -1,0 +1,9 @@
+# Reflexões da lição 2.
+
+1) O que acontece ao iniciar um repositório?
+O Git cria um diretório chamado .git e armazena metadados nesse diretório.
+
+2) Por que você precisa fazer isso?
+Para que o Git consiga rastrear os arquivos do repositório.
+
+
