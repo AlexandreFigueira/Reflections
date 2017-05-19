@@ -16,4 +16,6 @@ Posso adiconar somente as alterações relacionadas à área de preparação e d
 
 Em qualquer situação em que eu precise testar uma correção ou introduzir uma nova funcionalidade, os branches podem ser úteis. Eles ajudam por permitir que alterne entre várias versões do sistema.
 
+6) Como os diagramas ajudam a visualizar a estrutura de branches?
+Eles percorrem as ramificações no sentido das pontas para os ancestrais até o primeiro commit, mostrando bifurcações nos acestrais comuns às várias ramificações.
 
