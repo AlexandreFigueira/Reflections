@@ -12,3 +12,8 @@ A área de trabalho indica os arquivos/mudanças que estão prontos para commit,
 4) Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 Posso adiconar somente as alterações relacionadas à área de preparação e depois efetuar o commit. As alterações não relacionadas permanecem no diretório de trabalho.
 
+5) Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Em qualquer situação em que eu precise testar uma correção ou introduzir uma nova funcionalidade, os branches podem ser úteis. Eles ajudam por permitir que alterne entre várias versões do sistema.
+
+
