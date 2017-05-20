@@ -22,4 +22,6 @@ Eles percorrem as ramificações no sentido das pontas para os ancestrais até o
 7) Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 É um commit que abrangerá as alterações feitas nos dois branch mesclados. 
 
+8) Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+A mesclagem automática é boa porque poupa trabalho, em contrapartida, poderia tomar decisões erradas quando houvesse conflito, ou seja, quando mais de uma pessoa altera a mesma parte. Fazer as mesclagens manuais sempre gera muito trabalho, de forma que as mesclagens manuais são apropriadas para resolver os conflitos.
 
