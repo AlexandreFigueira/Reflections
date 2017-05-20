@@ -19,3 +19,7 @@ Em qualquer situação em que eu precise testar uma correção ou introduzir uma
 6) Como os diagramas ajudam a visualizar a estrutura de branches?
 Eles percorrem as ramificações no sentido das pontas para os ancestrais até o primeiro commit, mostrando bifurcações nos acestrais comuns às várias ramificações.
 
+7) Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+É um commit que abrangerá as alterações feitas nos dois branch mesclados. 
+
+
