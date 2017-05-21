@@ -7,4 +7,7 @@ Porque pode ser que as alterações não estejam finalizadas ainda, isso seria c
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 Uma bifurcação é uma cópia armazenada no GitHub de um repositório existente no GitHub. Um clone é uma cópia local de um repositório, que pode ser de local ou remoto. Um branch é uma ramificação na cadeia de commits de um repositório.
 
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+É possível saber se outras pessoas fizeram alterações, avaliá-las e então, se for o caso, fazer um merge com o branch local.
+
 
